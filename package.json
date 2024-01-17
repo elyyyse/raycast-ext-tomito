@@ -13,12 +13,14 @@
     {
       "name": "start",
       "title": "Start/Pause/Resume",
+"subtitle": "Tomito",
       "description": "Start, pause, or resume current interval",
       "mode": "no-view"
     },
     {
       "name": "restart",
       "title": "Restart",
+"subtitle": "Tomito",
       "description": "Restart current interval",
       "mode": "no-view"
     },
@@ -37,26 +39,28 @@
     {
       "name": "skip",
       "title": "Skip",
+"subtitle": "Tomito",
       "description": "Skip current interval",
       "mode": "no-view"
     },
     {
       "name": "hide",
       "title": "Hide Window",
+"subtitle": "Tomito",
       "description": "Hide timer window",
       "mode": "no-view"
     },
     {
       "name": "show",
       "title": "Show Window",
+"subtitle": "Tomito",
       "description": "Show timer window",
       "mode": "no-view"
     }
   ],
   "dependencies": {
     "@raycast/api": "^1.65.0",
-    "@raycast/utils": "^1.10.1",
-    "run-applescript": "^7.0.0"
+    "@raycast/utils": "^1.10.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
