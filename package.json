@@ -56,6 +56,12 @@
       "subtitle": "Tomito",
       "description": "Show timer window",
       "mode": "no-view"
+    },
+    {
+      "name": "toggleTimerWidget",
+      "title": "Toggle Timer Widget",
+      "description": "show or hide the timer widget",
+      "mode": "no-view"
     }
   ],
   "dependencies": {
